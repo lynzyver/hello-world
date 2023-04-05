@@ -1,2 +1,2 @@
-# My name is Ziyi Li
+# Hello world
 This is my first repository.
